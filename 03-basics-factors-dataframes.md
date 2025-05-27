@@ -693,7 +693,7 @@ These packages will be installed into "~/.cache/R/renv/library/profiles/lesson-r
 
 # Installing packages --------------------------------------------------------
 - Installing ggplot2 ...                        OK [linked from cache]
-Successfully installed 1 package in 70 milliseconds.
+Successfully installed 1 package in 72 milliseconds.
 ```
 
 ``` r
@@ -707,7 +707,7 @@ These packages will be installed into "~/.cache/R/renv/library/profiles/lesson-r
 
 # Installing packages --------------------------------------------------------
 - Installing dplyr ...                          OK [linked from cache]
-Successfully installed 1 package in 5.6 milliseconds.
+Successfully installed 1 package in 5.7 milliseconds.
 ```
 
 These two packages are among the most popular add on packages used in R, and they are part of a large set of very useful packages called the [tidyverse](https://www.tidyverse.org). Packages in the tidyverse are designed to work well together and are made to work with tidy data (which we described earlier in this lesson).
